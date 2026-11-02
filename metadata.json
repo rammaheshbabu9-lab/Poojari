@@ -1,0 +1,6 @@
+{
+  "name": "Karthika Masam Pooja Kit Delivery",
+  "description": "Pavitra Karthika Masam Pooja Kit Delivery App with interactive 3D Deepam Sanctum, real-time live order tracking, secure payment options, push notifications, and devotee reviews.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
